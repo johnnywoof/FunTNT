@@ -1,0 +1,4 @@
+name: FunTNT
+version: 1.0
+main: me.johnnywoof.FunTNT
+load: startup
